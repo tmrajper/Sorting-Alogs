@@ -1,4 +1,4 @@
-# Sorting-Alogs
+# Sorting-Algorithms
 Merge, Quick, Exchange Sort
 
 There are two separate folders of code, one for the sorting algorithms, and one for the matrix multiplication.
